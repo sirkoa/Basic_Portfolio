@@ -1,5 +1,5 @@
 body{
-	background-image: url("vintage-leaves.png");
+	background-image: url("../images/vintage-leaves.png");
 }
 
 footer{
@@ -92,7 +92,7 @@ main {
 }
 
 #picture{
-	margin-left: 100px;
+	margin-left: 20px;
 	
 }
 
