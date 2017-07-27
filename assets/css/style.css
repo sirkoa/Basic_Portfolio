@@ -1,0 +1,68 @@
+body{
+	background-image: url("vintage-leaves.png");
+}
+
+footer{
+	text-align: center;
+	background: #4aaaa5;
+	color:white;
+}
+h2{
+	color:teal;
+	margin-left: 100px;
+	margin-right: 800px;
+}
+h3{
+	float:right;
+	color:teal;
+	margin-right: 300px;
+}
+
+#About{
+	float:right;
+	margin-right: 10px;
+	color:grey;
+}
+
+#Contact{
+	float:right;
+	color:grey;
+}
+
+#Portfolio{float:right;
+	margin-left: 10px;
+	margin-right: 300px;
+	color:grey;
+}
+
+#picture{
+	margin-left: 100px;
+	
+}
+
+#facebook{
+	float:right;
+	
+	margin-left: 10px;
+}
+
+#linkedin{
+	float:right;
+}
+
+#stack{
+	float:right;
+	margin-right: 10px;
+
+}
+
+h1 {
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-right: 800px;
+  margin-left: 100px;
+  color: white;
+  background: #4aaaa5;
+
+
+	
