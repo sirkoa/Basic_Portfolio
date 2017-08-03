@@ -1,118 +1,12 @@
-body{
-	background-image: url("../images/vintage-leaves.png");
+
+.my-image {
+  margin-right: 20px
 }
 
-footer{
+.panel-title {
 	text-align: center;
-	background: #4aaaa5;
-	color:white;
-
 }
-
-h1 {
-  padding: 20px;
-  width: 140px;
-  color: white;
-  background: #4aaaa5;
+.footercontainer {
+	text-align: center;
+	padding: 40px;
 }
-h2{
-	color:teal;
-	margin-left: 20px;
-}
-h3{
-	float:right;
-	color:teal;
-	margin-right: 300px;
-}
-
-header {
-	float: left;
-	margin-left: 100px;
-}
-
-hr {
-	width: 80%;
-} 
-
-nav {
-	border-bottom: 1px solid lightgrey;
-}
-
-nav::after {
-	content: "";
-	display: block;
-	clear: both;
-}
-nav ul {
-	list-style-type: none;
-	float: left;
-	margin-left: 440px;
-	margin-top: 20px;
-}
-
-nav li {
-	display: inline-block;
-	padding: 20px;
-}
-
-nav li > a {
-	color: grey;
-	text-decoration: none;
-}
-
-main {
-	border: 2px solid lightgrey;
-	float: left;
-	width: 40%;
-	margin: 50px;
-	margin-left: 100px;
-}
-
-#wrapper::after {
-	content: "";
-	display: block;
-	clear: both;
-}
-
-#About{
-	float:right;
-	margin-right: 10px;
-	color:grey;
-}
-
-#Contact{
-	float:right;
-	color:grey;
-}
-
-#Portfolio{float:right;
-	margin-left: 10px;
-	margin-right: 300px;
-	color:grey;
-}
-
-#picture{
-	margin-left: 20px;
-	
-}
-
-#facebook{
-	float:right;
-	
-	margin-left: 10px;
-}
-
-#linkedin{
-	float:right;
-}
-
-#stack{
-	float:right;
-	margin-right: 10px;
-	
-}
-
-
-
-
-	
